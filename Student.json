@@ -1,0 +1,220 @@
+{
+    "students": [
+        {
+            "id": 141831353202006128255306354273121467098,
+            "first_name": "Joao",
+            "last_name": "Serpa",
+            "course": [
+                {
+                    "course_name": "Python",
+                    "grades": [
+                        10,
+                        5
+                    ],
+                    "attendance": [
+                        "2019-04-28",
+                        "2019-04-28"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 89556222168339740954026197310644537467,
+            "first_name": "Pedro",
+            "last_name": "Luis",
+            "course": [
+                {
+                    "course_name": "Math",
+                    "grades": [
+                        20,
+                        20
+                    ],
+                    "attendance": [
+                        "2019-04-28",
+                        "2019-04-28"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 159524479733638669844813768109952302572,
+            "first_name": "Ines",
+            "last_name": "Lobo",
+            "course": [
+                {
+                    "course_name": "KRR",
+                    "grades": [
+                        15,
+                        10
+                    ],
+                    "attendance": [
+                        "2019-04-28",
+                        "2019-04-28"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8714803457184694380593381833475734009,
+            "first_name": "Miguel",
+            "last_name": "Gomes",
+            "course": [
+                {
+                    "course_name": "Python",
+                    "grades": [
+                        18,
+                        16
+                    ],
+                    "attendance": [
+                        "2019-04-28",
+                        "2019-04-28"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 234944498159840148436656235700098234536,
+            "first_name": "Joao",
+            "last_name": "Bastos",
+            "course": [
+                {
+                    "course_name": "Math",
+                    "grades": [
+                        16,
+                        13
+                    ],
+                    "attendance": [
+                        "2019-04-28",
+                        "2019-04-28"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 163416645084707780417920222817203580674,
+            "first_name": "Catarina",
+            "last_name": "Murteira",
+            "course": [
+                {
+                    "course_name": "KRR",
+                    "grades": [
+                        14,
+                        18
+                    ],
+                    "attendance": [
+                        "2019-04-28",
+                        "2019-04-28"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 151160402970285545658764663047026568873,
+            "first_name": "Tirion",
+            "last_name": "Lanister",
+            "course": [
+                {
+                    "course_name": "Python",
+                    "grades": [
+                        5,
+                        15
+                    ],
+                    "attendance": [
+                        "2019-04-28",
+                        "2019-04-28"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 258408551943211188363303110488306498619,
+            "first_name": "Jon",
+            "last_name": "Snow",
+            "course": [
+                {
+                    "course_name": "Math",
+                    "grades": [
+                        2,
+                        10
+                    ],
+                    "attendance": [
+                        "2019-04-28",
+                        "2019-04-28"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 128331429848280122113887561447191585747,
+            "first_name": "Dany",
+            "last_name": "Targaryan",
+            "course": [
+                {
+                    "course_name": "KRR",
+                    "grades": [
+                        16,
+                        14
+                    ],
+                    "attendance": [
+                        "2019-04-28",
+                        "2019-04-28"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 119498007560122293304995364357898951797,
+            "first_name": "Samuel",
+            "last_name": "Tarly",
+            "course": [
+                {
+                    "course_name": "Python",
+                    "grades": [
+                        17,
+                        10
+                    ],
+                    "attendance": [
+                        "2019-04-28",
+                        "2019-04-28"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 83810974384704868188428853441216024005,
+            "first_name": "Arya",
+            "last_name": "Stark",
+            "course": [
+                {
+                    "course_name": "Math",
+                    "grades": [
+                        12,
+                        16
+                    ],
+                    "attendance": [
+                        "2019-04-28",
+                        "2019-04-28"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 37504524219388050966468270191173942680,
+            "first_name": "Sansa",
+            "last_name": "Stark",
+            "course": [
+                {
+                    "course_name": "KRR",
+                    "grades": [
+                        10,
+                        17
+                    ],
+                    "attendance": [
+                        "2019-04-28",
+                        "2019-04-28"
+                    ]
+                }
+            ]
+        }
+    ]
+}
